@@ -64,14 +64,15 @@ accelerate-launch trainer.py
 
 # Bixtex
 ```bib
-@ARTICLE{10497147,
+@article{huang2024adaptformer,
+  title={AdaptFormer: An Adaptive Hierarchical Semantic Approach for Change Detection on Remote Sensing Images},
   author={Huang, Teng and Hong, Yile and Pang, Yan and Liang, Jiaming and Hong, Jie and Huang, Lin and Zhang, Yuan and Jia, Yan and Savi, Patrizia},
-  journal={IEEE Transactions on Instrumentation and Measurement}, 
-  title={AdaptFormer: An Adaptive Hierarchical Semantic Approach for Change Detection on Remote Sensing Images}, 
+  journal={IEEE Transactions on Instrumentation and Measurement},
   year={2024},
-  volume={},
+  volume={73},
   number={},
-  pages={1-1},
-  keywords={Semantics;Remote sensing;Feature extraction;Data mining;Adaptation models;Transformers;Task analysis;Change Detection;Hierarchical Representation Learning;Remote Sensing;Representation Fusion;Deep Learning},
+  pages={1-12},
+  publisher={IEEE},
   doi={10.1109/TIM.2024.3387494}}
+}
 ```
